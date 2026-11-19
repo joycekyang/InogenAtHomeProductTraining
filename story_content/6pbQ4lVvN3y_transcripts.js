@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":550,"text":"Meet Shawn."},{"start":1629,"text":"Shawn uses a CPAP machine for sleep apnea and"},{"start":4429,"text":"requires a continuous flow oxygen concentrator during the day"},{"start":7989,"text":"and while he sleeps."},{"start":9630,"text":"His previous oxygen concentrator provided the oxygen he needed,"},{"start":13350,"text":"but it was so loud that he kept it in a closet to reduce the noise."},{"start":17280,"text":"To make this setup work,"},{"start":18840,"text":"Shawn used extra tubing to deliver oxygen from another room."},{"start":22500,"text":"Looking for a quieter solution,"},{"start":24459,"text":"Shawn learned about the Innogen at home and decided to make the switch."},{"start":28819,"text":"Now that he uses the Innogen at home everyday,"},{"start":31149,"text":"he wants to learn more about its features and benefits."},{"start":34500,"text":"Let's learn with him."}]}]};
+    window.globalLoadJsAsset('story_content/6pbQ4lVvN3y_transcripts.js', JSON.stringify(data));
+})();
